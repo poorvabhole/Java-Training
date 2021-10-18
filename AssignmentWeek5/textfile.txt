@@ -1,0 +1,2 @@
+ Java Platform is a collection of programs that help programmers to develop and run Java programming applications efficiently.
+  Java Platform is a collection of programs that help.
